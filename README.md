@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**alok-kuri/alok-kuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Im **✨ _Alok Kuri_ ✨** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are about to some ideas to get you know me:
+
+- 🔭 I’m currently working on Self Employee
+- 🌱 I’m currently learning DevOps, MlOps
+- 👯 I’m looking to collaborate on Prctionaer and StackHolder
+- 🤔 I’m looking for help with SaaS Product
+- 💬 Ask me about Software Development
+- 📫 How to reach me: alokkuripro2@gmail.com
+- 😄 Pronouns: Alok
+- ⚡ Fun fact: Development, Software Enginnering, DevOps, IT Infra
