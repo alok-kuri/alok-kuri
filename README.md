@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-Im **✨ _Alok Kuri_ ✨** 
+Im **✨ _Alok Kuri_✨ FullStact Web APPLICATION developer** 
 
-Here are about to some ideas to get you know me:
+Here are a few ideas to help you get to know me.
 
 - 🔭 I’m currently working on Self Employee
 - 🌱 I’m currently learning DevOps, MlOps
